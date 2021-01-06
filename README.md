@@ -27,6 +27,8 @@ _This is a simple webpage that displays my favorite pet and my partner Mike's fa
 
 [MIT](https://opensource.org/licenses/MIT)
 
+Copyright(c) 2020 Mikey Kriegel and Mike Pingel
+
 ## Contact Information
 
-I'm available to contact at mikkrieg@gmail.com
+Mikey Kriegel: mikkrieg@gmail.com
