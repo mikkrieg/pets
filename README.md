@@ -8,10 +8,11 @@
 
 * _HTML_
 * _CSS_
+* _JavaScript
 
 ## Description
 
-_This is a simple webpage that displays my favorite pet and my partner Mike's favorite pet. We both the names of our pets. I provided a brief description of my pet, while Mike provided bullet points on what makes his pet different from wild animals and it's similar organism the porcupine._
+_This is a simple webpage that displays my favorite pet and my partner Mike's favorite pet. We both the names of our pets. I provided a brief description of my pet, while Mike provided bullet points on what makes his pet different from wild animals and it's similar organism the porcupine. Change the Theme if you prefer night or light!_
 
 ## Setup/Installation Requirements
 
