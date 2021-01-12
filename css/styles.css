@@ -1,11 +1,7 @@
 body {
-  background-color: #ff8701;
   text-align: center;
 }
 
-h1, h2{
-  color: #800080;
-}
 
 p {
   font-size: 15px;
@@ -19,5 +15,14 @@ li {
   padding-bottom: 20px;
 }
 
+
+.dark {
+  background-color: #000;
+  color: #000;
+}
+
+.light {
+  color: #fff;
+}
 
 

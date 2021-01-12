@@ -1,26 +1,39 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
+  <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
   <link href="css/styles.css" rel="stylesheet" type="text/css">
+  <script src="js/jquery-3.5.1.js"></script>
+  <script src="js/scripts.js"></script>
   <title>Pet Website</title>
 </head>
 <body>
-  <h1>Our Pets</h1>
-  <h2>Mikey's Pet</h2>
-  <p>I had a dog, name Toby. He is a Schnauzer.</p>
-  <p>These are some things that describe him</p>
-  <ul>
-    <li>Wired hair</li>
-    <li>Little Beard</li>
-    <li>Small dog</li>
-  </ul>
-  <h2>Mike's Pet</h2>
-  <p>I used to have a hedgehog, his name was Phteven.</p>
-  <p> He's not like a porcupine, this is what makes hedgehogs different:</p>
-  <ul>
-    <li>Hedgehogs have spikes, not quills</li>
-    <li>Hedgehogs cannot shoot their spikes</li>
-    <li>Hedgehogs poop a lot</li> 
-  </ul>
+  <div class="container">
+    <h1>Our Pets</h1>
+    <div class="row">
+      <div class="col-md-6">
+        <h2>Mikey's Pet</h2>
+        <p>I had a dog, name Toby. He is a Schnauzer.</p>
+        <p>These are some things that describe him</p>
+        <ul>
+          <li>Wired hair</li>
+          <li>Little Beard</li>
+          <li>Small dog</li>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <h2>Mike's Pet</h2>
+        <p>I used to have a hedgehog, his name was Phteven.</p>
+        <p> He's not like a porcupine, this is what makes hedgehogs different:</p>
+        <ul>
+          <li>Hedgehogs have spikes, not quills</li>
+          <li>Hedgehogs cannot shoot their spikes</li>
+          <li>Hedgehogs poop a lot</li> 
+        </ul>
+      </div>
+    </div>
+    <button class="btn btn-success" id="darkTheme">Change Theme: Dark</button>
+    <button class="btn btn-success" id="lightTheme">Change Theme: Light</button>
+  </div>
 </body>
 </html>
